@@ -1,0 +1,45 @@
+.banner {
+  display: flex;
+  background: #fff8f8;
+  padding: 0 15px;
+}
+
+.left-banner {
+  width: 48%;
+
+  display: flex;
+  align-items: center;
+}
+.left-banner .quote {
+  width: 500px;
+
+  font-size: 36px;
+}
+.left-banner .quote h1 {
+  color: #313030;
+}
+.left-banner .quote h1 span {
+  color: #f54748;
+}
+.left-banner .quote p {
+  margin: 10px 0;
+  font-size: 20px;
+}
+
+.left-banner .quote button {
+  margin: 25px 0;
+  width: 160px;
+  height: 50px;
+  color: #fff;
+  background: #f54748;
+  border-radius: 30px;
+  border-style: none;
+}
+.right-banner {
+  display: flex;
+  align-items: flex-end;
+}
+.right-banner img {
+  width: 100%;
+  height: 90%;
+}

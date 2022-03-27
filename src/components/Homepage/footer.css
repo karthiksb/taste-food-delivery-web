@@ -1,0 +1,22 @@
+.footer {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr 1.5fr;
+  padding: 0 15px;
+  align-self: flex-end;
+}
+.subhead {
+  padding: 15px 0;
+}
+.aboutapp h1 {
+  color: #f54748;
+}
+
+.intouch input {
+  margin-top: 15px;
+  border-radius: 20px;
+  border-style: none;
+  width: 160px;
+  height: 35px;
+  padding: 0 20px;
+  border: 1px solid rgb(158, 158, 158);
+}

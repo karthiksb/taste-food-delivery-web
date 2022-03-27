@@ -1,0 +1,86 @@
+.coupons {
+  display: flex;
+  width: auto;
+  height: auto;
+  align-items: center;
+  justify-content: space-evenly;
+  background: linear-gradient(
+    90deg,
+    rgba(240, 11, 77, 0.9695852987421384) 0%,
+    rgba(129, 21, 50, 1) 100%
+  );
+  padding: 20px 20px;
+}
+
+.coupons img {
+  width: 250px;
+  height: 250px;
+  margin: 0 10px;
+
+  border-right: 3px solid white;
+}
+.searchdatainfo {
+  padding-left: 15px;
+  display: flex;
+  height: 70px;
+  padding-bottom: 10px;
+  justify-content: space-between;
+  align-items: flex-end;
+  border-bottom: 1px solid rgb(226, 223, 223);
+}
+.searchdatainfo ul {
+  list-style: none;
+  display: flex;
+}
+
+.searchdatainfo ul li {
+  padding: 0 20px;
+  color: rgb(87, 87, 87);
+}
+
+.displaycontent {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  width: 100%;
+  height: auto;
+}
+
+.foodcard {
+  margin-top: 20px;
+  width: auto;
+  height: fit-content;
+}
+.foodcard:hover {
+  border: 1px solid rgb(206, 206, 206);
+}
+.setpadding {
+  margin: 30px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.foodimage img {
+  width: 100%;
+}
+.fooddesc {
+  margin-top: 5px;
+  font-size: 14px;
+}
+.foodrating {
+  display: flex;
+  margin-top: 10px;
+  padding-bottom: 10px;
+
+  justify-content: space-between;
+  border-bottom: 1px solid rgb(199, 199, 199);
+}
+.discount {
+  margin: 10px 0;
+}
+
+@media screen and (min-width: 1500px) {
+  .searchfood {
+    padding: 0 320px;
+  }
+}

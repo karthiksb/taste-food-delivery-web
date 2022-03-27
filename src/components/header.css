@@ -1,0 +1,83 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+}
+
+.rightnav ul {
+  display: flex;
+  list-style: none;
+  align-items: center;
+}
+.leftnav h1 {
+  color: #f54748;
+}
+
+.rightnav ul li {
+  padding: 0 5px;
+}
+
+.logins {
+  width: 100px;
+  height: 40px;
+  display: flex;
+  background-color: #f54748;
+  align-items: center;
+  color: #fff;
+  justify-content: center;
+  font-size: 15px;
+  border-radius: 20px;
+}
+
+.rightnav ul li .logins #login {
+  font-size: 16px;
+}
+
+.rightnav ul li .logins p {
+  font-size: 12px;
+  margin-bottom: 3px;
+  padding: 0px 5px;
+}
+
+.search {
+  width: 500px;
+  height: 40px;
+  border: 1px solid rgb(241, 217, 217);
+  border-radius: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.search button {
+  width: 40%;
+  height: 100%;
+  background-color: #f54748;
+  color: #fff;
+  border-style: none;
+  border-radius: 30px;
+}
+
+.searchinp {
+  width: 80%;
+  margin-left: 20px;
+  font-size: 16px;
+  height: 90%;
+  color: #1b1b1b;
+  outline: none;
+  border-style: none;
+}
+.profile {
+  display: flex;
+  align-items: center;
+}
+li img {
+  width: 25px;
+  padding: 0 10px;
+}
+
+@media screen and (min-width: 1500px) {
+  .header {
+    padding: 0 320px;
+  }
+}

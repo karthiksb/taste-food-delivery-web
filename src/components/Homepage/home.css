@@ -1,0 +1,9 @@
+.home {
+  display: grid;
+  grid-template-rows: 70vh 55vh 70vh 15vh;
+}
+@media screen and (min-width: 1500px) {
+  .home {
+    padding: 0 320px;
+  }
+}

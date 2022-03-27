@@ -1,0 +1,42 @@
+.info {
+}
+.info-quote {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 20px;
+}
+.info-quote p {
+  color: #f54748;
+}
+
+.step {
+  margin: 30px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+}
+.row .sub {
+  width: 250px;
+
+  font-size: 18px;
+}
+.img2 {
+  padding-top: 15px;
+}
+.img3 {
+  padding-top: 15px;
+}
+.sub p:nth-child(2) {
+  text-align: center;
+}
+
+.row {
+  width: 320px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
