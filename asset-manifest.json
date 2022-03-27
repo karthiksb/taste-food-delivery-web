@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/taste-food-delivery-web/static/css/main.84e476e8.css",
+    "main.js": "/taste-food-delivery-web/static/js/main.ad15f0cf.js",
+    "static/media/banner.png": "/taste-food-delivery-web/static/media/banner.ea49f620b9a973f47fb0.png",
+    "static/media/coupon4.png": "/taste-food-delivery-web/static/media/coupon4.ae85d254617d75260eab.png",
+    "static/media/coupon3.png": "/taste-food-delivery-web/static/media/coupon3.49e6de50f2c2abf9bf41.png",
+    "static/media/coupon2.png": "/taste-food-delivery-web/static/media/coupon2.6e7218b406e7406bf5de.png",
+    "static/media/coupon1.png": "/taste-food-delivery-web/static/media/coupon1.7400417cd9c87a2969ce.png",
+    "static/media/review.png": "/taste-food-delivery-web/static/media/review.c22fee4de8dd50d1fc99.png",
+    "static/media/food3.png": "/taste-food-delivery-web/static/media/food3.b3a42948432531f024d6.png",
+    "static/media/profile.jpg": "/taste-food-delivery-web/static/media/profile.7fe14f0accd9979e3303.jpg",
+    "static/media/food.png": "/taste-food-delivery-web/static/media/food.f4b4157c23663bdde6eb.png",
+    "static/media/food2.png": "/taste-food-delivery-web/static/media/food2.eac0374f531debf409e2.png",
+    "static/media/pic2.png": "/taste-food-delivery-web/static/media/pic2.34666e0115eecdae3c6e.png",
+    "index.html": "/taste-food-delivery-web/index.html",
+    "main.84e476e8.css.map": "/taste-food-delivery-web/static/css/main.84e476e8.css.map",
+    "main.ad15f0cf.js.map": "/taste-food-delivery-web/static/js/main.ad15f0cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84e476e8.css",
+    "static/js/main.ad15f0cf.js"
+  ]
+}
